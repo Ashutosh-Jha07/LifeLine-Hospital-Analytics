@@ -3,6 +3,8 @@
 ### 
 
 ### 
+NOTE: The dataset used in this project is **synthetic** and was **generated with the assistance of AI** for educational and portfolio purposes. It does **not** contain real customer or company data.
+
 
 ### &#x20;Project Overview
 
